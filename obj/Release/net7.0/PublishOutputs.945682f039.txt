@@ -1,0 +1,13 @@
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\WebAppWithSqldb.exe
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\WebAppWithSqldb.dll
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\WebAppWithSqldb.deps.json
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\WebAppWithSqldb.runtimeconfig.json
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\WebAppWithSqldb.pdb
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\z0046ktz\source\repos\Solution1\WebAppWithSqldb\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
